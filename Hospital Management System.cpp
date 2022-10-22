@@ -37,17 +37,9 @@ void hospitalmanagement::control_panel()
     cout << "\n6. exit";
 
 
-    cout << "\n\n\t\t\tDeveloper_1\n\t\tTasfia Sultana Bhuiyan";
-    cout << "\n\tM.ID: C213201, Dept. of CSE, IIUC. Cell: 01710274580";
-    cout << "\n\tEmail:tasfiabhuiyan2001@gmail.com";
-
-    cout << "\n\n\t\t\tDeveloper_2\n\t\t Jannatul Mawa Hridy";
-    cout << "\n\tM.ID: C213203, Dept. of CSE, IIUC. Cell: 01874255509";
-    cout << "\n\tEmail:nafisaayman523@gmail.com";
-
-    cout << "\n\n\t\t\tDeveloper_3\n\t\t Naznin Sultana Lamia ";
-    cout << "\n\tM.ID: C213209, Dept. of CSE, IIUC. Cell: 01832935022";
-    cout << "\n\tEmail:nurejannatchowdhury381@gmail.com";
+    cout << "\n\n\t\t\tDeveloper_1\n\t\tMd. Sorowar Mahabub rabby";
+    cout << "\n\tM.ID: C201032, Dept. of CSE, IIUC. Cell: 01521564157";
+    cout << "\n\tEmail:sorowarmahabub1709vip@gmail.com";
 }
 
 // Function to add patient
